@@ -1,0 +1,20 @@
+.App {
+    display: flex;
+    height: 100vh;
+}
+
+.imgContainer {
+    width: 20%;
+    height: 50%;
+    margin: 0 0.5px;
+    object-fit: cover;
+}
+
+.img {
+    width: 500px;
+    height: 100%;
+}
+
+.imgMobile {
+    display: none;
+}
